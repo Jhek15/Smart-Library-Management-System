@@ -11,4 +11,4 @@ Project Modules
 Development Team
 Student Name: Jherick C. Zaguirre
 Course: IT 3012 - System Integration and Architecture 1
-Section: BSIT SD 2C
+Section: BSIT SD 2
