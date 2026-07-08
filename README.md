@@ -24,10 +24,3 @@ Features
 - Delete Member Record
 - Search Member
 
-Book Reservation Module
-
-Features
-- Reserve unavailable books
-- Cancel reservations
-- Notify members when books become available
-- View reservation history
