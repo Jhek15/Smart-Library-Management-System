@@ -23,3 +23,9 @@ Features
 
 
 TEST CHANGES FOR REVERT
+
+Contributor Name: Brusola, Jhon Paul
+
+Feature Added:
+- Digital Library Dashboard
+
