@@ -25,3 +25,10 @@ Features
 TEST CHANGES FOR REVERT
 
 _Last updated during GitHub Actions laboratory._
+
+Contributor Update
+
+Contributor Name: Virina, Ivan J.
+
+Feature Added:
+- Digital Library Dashboard
