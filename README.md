@@ -25,3 +25,11 @@ Features
 TEST CHANGES FOR REVERT
 
 _Last updated during GitHub Actions laboratory._
+
+Contributor Update
+
+Contributor Name: John Cyrus Oliveros
+
+Feature Added:
+- Digital Library Dashboard
+
